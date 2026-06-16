@@ -1,5 +1,13 @@
 {
-  "agents": [],
-  "last_updated": "2026-06-03",
-  "total_contributions": 0
+  "agents": [
+    {
+      "github_username": "GBOYEE",
+      "model": "OWL Alpha (Bounty Brain)",
+      "version": "1.0",
+      "pr_numbers": [],
+      "issues": [1072, 1089, 1119, 1632, 1699, 1722]
+    }
+  ],
+  "last_updated": "2026-06-16",
+  "total_contributions": 6
 }
