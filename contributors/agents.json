@@ -1,5 +1,13 @@
 {
-  "agents": [],
+  "agents": [
+    {
+      "github_username": "GBOYEE",
+      "model": "OWL (hermes-agent)",
+      "version": "bounty-brain",
+      "pr_number": null,
+      "issue_number": 1130
+    }
+  ],
   "last_updated": "2026-06-03",
-  "total_contributions": 0
+  "total_contributions": 1
 }
